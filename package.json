@@ -1,0 +1,13 @@
+{
+  "name": "inteagir-guia-equipe",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Guia de vibe coding colaborativo com checklist persistente na Vercel.",
+  "dependencies": {
+    "@vercel/blob": "^2.3.0"
+  },
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
