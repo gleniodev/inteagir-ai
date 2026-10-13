@@ -1,0 +1,22 @@
+{
+  "_info": "Exemplo inicial. O progresso real é salvo como JSON privado no Vercel Blob, e NÃO neste arquivo estático.",
+  "updatedAt": null,
+  "checks": {
+    "docs": false,
+    "repo": false,
+    "stack": false,
+    "tasks": false,
+    "nav": false,
+    "prof": false,
+    "student": false,
+    "responsive": false,
+    "prompts": false,
+    "integration": false,
+    "template": false,
+    "review": false,
+    "secondary": false,
+    "security": false,
+    "deploy": false,
+    "rehearsal": false
+  }
+}
